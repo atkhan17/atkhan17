@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atkhan17
-- 👀 I’m interested in AI, Game Development
+- 👀 I’m interested in AI and Game Development
 - 🌱 I’m currently learning Web development
 - 📫 How to reach me: arsalantkhan17@gmail.com
 
